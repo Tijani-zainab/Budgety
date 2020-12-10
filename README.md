@@ -1,2 +1,2 @@
 # Budgety
-[here's](https://buddgety.netlify.app/) 🔗  
+[here](https://buddgety.netlify.app/) 🔗  
